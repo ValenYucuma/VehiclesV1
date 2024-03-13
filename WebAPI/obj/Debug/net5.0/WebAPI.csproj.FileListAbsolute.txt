@@ -1,0 +1,527 @@
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\WebAPI.exe
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\WebAPI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Ardalis.Specification.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Ardalis.Specification.EntityFrameworkCore.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\MediatR.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Application.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Domain.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Identity.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Persistence.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Shared.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Application.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Identity.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Persistence.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Shared.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\bin\Debug\net5.0\Domain.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\WebAPI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\WebAPI.exe
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\WebAPI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Ardalis.Specification.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Ardalis.Specification.EntityFrameworkCore.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\MediatR.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Application.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Domain.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Identity.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Persistence.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Shared.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Application.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Identity.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Persistence.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Shared.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Domain.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\appsettings.json
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\WebAPI.exe
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\WebAPI.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Ardalis.Specification.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Ardalis.Specification.EntityFrameworkCore.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\MediatR.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Application.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Domain.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Identity.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Persistence.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Shared.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Application.pdb
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Identity.pdb
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Persistence.pdb
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Shared.pdb
+C:\BK\EpironRestFulRedis - copia\WebAPI\bin\Debug\net5.0\Domain.pdb
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+C:\BK\EpironRestFulRedis - copia\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache

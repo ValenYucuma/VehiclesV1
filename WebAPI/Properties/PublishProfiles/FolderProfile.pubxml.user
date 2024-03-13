@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\WebAPI\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2023-01-10T16:56:27.9691747Z;True|2022-11-10T09:52:38.4587169-05:00;True|2022-11-08T14:42:00.7281633-05:00;True|2022-10-27T08:36:31.8535385-05:00;</History>
+  </PropertyGroup>
+</Project>

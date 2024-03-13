@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "WebAPI.Controllers.v1.RentController",
+    "Method": "Get",
+    "RelativePath": "Rentar Vehiculos Disponibles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ClienteU",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LocationId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.v1.RentController",
+    "Method": "GetSQL",
+    "RelativePath": "Todos los Vehiculos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

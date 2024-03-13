@@ -1,0 +1,51 @@
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\bin\Debug\net5.0\Application.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\bin\Debug\net5.0\Application.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Application.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Application.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\juan.villada\source\repos\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\BK\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\BK\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\BK\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\BK\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\BK\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Application.dll
+C:\BK\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Domain.dll
+C:\BK\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Application.pdb
+C:\BK\EpironRestFulRedis - copia\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\BK\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\BK\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\BK\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\BK\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\BK\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\BK\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\BK\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\BK\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\BK\EpironRestFulRedis - copia\Persistence\obj\Debug\net5.0\Persistence.pdb
